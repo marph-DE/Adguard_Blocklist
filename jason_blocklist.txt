@@ -1,7 +1,7 @@
-! This is the comment. Under this line there is an actual filtering rule.
+! AdGuard Blocklist Jason
 
-#||omlet.me^ #blockt für alle im Netzwerk
 ||omlet.me^$client='Jason Smartphone'
+||omlet.gg^$client='Jason Smartphone'
 
 # Facebook
 ||facebook.com^$client='Jason Smartphone'
