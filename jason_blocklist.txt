@@ -48,3 +48,6 @@
 # Tinder
 
 ||whatsuproblem.com^$client='Jason Smartphone'
+
+# Reddit
+||reddit.com^$client='Jason Smartphone'
