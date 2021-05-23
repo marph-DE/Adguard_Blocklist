@@ -1,0 +1,50 @@
+! This is the comment. Under this line there is an actual filtering rule.
+
+#||omlet.me^ #blockt für alle im Netzwerk
+||omlet.me^$client='Jason Smartphone'
+
+# Facebook
+||facebook.com^$client='Jason Smartphone'
+# Facebook
+
+# Netflix
+||netflix.com^$client='Jason Smartphone'
+||netflix.net^$client='Jason Smartphone'
+||nflxext.com^$client='Jason Smartphone'
+||nflximg.com^$client='Jason Smartphone'
+||nflximg.net^$client='Jason Smartphone'
+||nflxso.net^$client='Jason Smartphone'
+||nflxvideo.net^$client='Jason Smartphone'
+# Netflix
+
+# Youtube
+||youtube.com^$client='Jason Smartphone'
+||googlevideo.com^$client='Jason Smartphone'
+||video.google.com^$client='Jason Smartphone'
+||youtu.be^$client='Jason Smartphone'
+||youtube-nocookie.com^$client='Jason Smartphone'
+||youtube-ui.l.google.com^$client='Jason Smartphone'
+||youtube.googleapis.com^$client='Jason Smartphone'
+||youtubeeducation.com^$client='Jason Smartphone'
+||youtubei.googleapis.com^$client='Jason Smartphone'
+||yt3.ggpht.com^$client='Jason Smartphone'
+||ytimg.com^$client='Jason Smartphone'
+# Youtube
+
+# Spotify
+||spotify.com^$client='Jason Smartphone'
+# Spotify
+
+# Whatsapp
+||whatsapp.com^$client='Jason Smartphone'
+||whatsapp.net^$client='Jason Smartphone'
+# Whatsapp
+
+
+# Tinder
+||gotinder.com^$client='Jason Smartphone'
+||tinder.com^$client='Jason Smartphone'
+||tindersparks.com^$client='Jason Smartphone'
+# Tinder
+
+||whatsuproblem.com^$client='Jason Smartphone'
