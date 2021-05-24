@@ -5,6 +5,8 @@
 
 # Facebook
 ||facebook.com^$client='Jason Smartphone'
+||graph.facebook.com^$client='Jason Smartphone'
+
 # Facebook
 
 # Netflix
@@ -38,6 +40,30 @@
 # Whatsapp
 ||whatsapp.com^$client='Jason Smartphone'
 ||whatsapp.net^$client='Jason Smartphone'
+||g.whatsapp.net^$client='Jason Smartphone'
+||e1.whatsapp.net^$client='Jason Smartphone'
+||e2.whatsapp.net^$client='Jason Smartphone'
+||e3.whatsapp.net^$client='Jason Smartphone'
+||e4.whatsapp.net^$client='Jason Smartphone'
+||e5.whatsapp.net^$client='Jason Smartphone'
+||e6.whatsapp.net^$client='Jason Smartphone'
+||e7.whatsapp.net^$client='Jason Smartphone'
+||e8.whatsapp.net^$client='Jason Smartphone'
+||e9.whatsapp.net^$client='Jason Smartphone'
+||e10.whatsapp.net^$client='Jason Smartphone'
+||e11.whatsapp.net^$client='Jason Smartphone'
+||e12.whatsapp.net^$client='Jason Smartphone'
+||e13.whatsapp.net^$client='Jason Smartphone'
+||e14.whatsapp.net^$client='Jason Smartphone'
+||e15.whatsapp.net^$client='Jason Smartphone'
+||e16.whatsapp.net^$client='Jason Smartphone'
+||e17.whatsapp.net^$client='Jason Smartphone'
+||e18.whatsapp.net^$client='Jason Smartphone'
+||e19.whatsapp.net^$client='Jason Smartphone'
+||e20.whatsapp.net^$client='Jason Smartphone'
+||dit.whatsapp.net^$client='Jason Smartphone'
+||static.whatsapp.net^$client='Jason Smartphone'
+
 # Whatsapp
 
 
