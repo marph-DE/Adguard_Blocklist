@@ -77,3 +77,7 @@
 
 # Reddit
 ||reddit.com^$client='Jason Smartphone'
+
+# Roblox
+||roblox.com^$client='Jason Smartphone'
+
