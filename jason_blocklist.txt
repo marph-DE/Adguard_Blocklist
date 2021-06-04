@@ -81,3 +81,7 @@
 # Roblox
 ||roblox.com^$client='Jason Smartphone'
 ||rbxcdn.com^$client='Jason Smartphone'
+
+# E-Sound
+||esound.app^$client='Jason Smartphone'
+||api.esound.app^$client='Jason Smartphone'
