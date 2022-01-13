@@ -1,4 +1,14 @@
-! AdGuard Blocklist Jason
+##################################
+#   Marph's  AdGuard Blocklist  ##  
+##################################
+
+
+
+
+#
+#  Jason
+################################
+
 
 ||omlet.me^$client='Jason Smartphone'
 ||omlet.gg^$client='Jason Smartphone'
@@ -85,3 +95,4 @@
 # E-Sound
 ||esound.app^$client='Jason Smartphone'
 ||api.esound.app^$client='Jason Smartphone'
+
